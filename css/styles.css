@@ -4,6 +4,9 @@ h1 {
   font-style: oblique;
   font-size: 50px
 }
+.text-box {
+  border: 8px solid black
+}
 h2 {
   color: green;
   font-style: italic;
@@ -30,4 +33,6 @@ li {
 }
 a {
   color: blue
+}
+@media () {
 }
