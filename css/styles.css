@@ -1,0 +1,33 @@
+h1 {
+  color: black;
+  text-align: justify;
+  font-style: oblique;
+  font-size: 50px
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: justify;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  font-size: 40px
+}
+ol {
+  font-size: 20px
+}
+ul {
+  font-size: 20px
+}
+p {
+  font-family: fantasy;
+  font-size: 20px
+}
+body {
+  background-color: brown
+}
+li {
+  font-style: italic;
+}
+a {
+  color: blue
+}
