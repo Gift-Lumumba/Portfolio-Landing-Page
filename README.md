@@ -9,7 +9,7 @@
 ## Technologies Used
 {This project was created using two languages,HTML and CSS.}
 ## Link to live site on GitHub Pages
-{Here's the link to the live site of this project on GitHub Pages https://github.com/Gift-Lumumba/Portfolio-Landing-Page/gh-pages }
+{Here's the link to the live site of this project on GitHub Pages https://github.com/Gift-Lumumba/Portfolio-Landing-Page/gh-pages  }
 ## Support and contact details
 {In case you run into any issues within my project or have questions,concerns or ideas about the same,I encourage you to contact me via email:giftlumumba2@gmail.com or via telephone:0711419032 and also make a contribution to the code.}
 Copyright (c) {2018} **{Gift Lumumba}**
